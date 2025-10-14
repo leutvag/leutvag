@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Computer Science graduate from Democritus University of Thrace, holding a Master's degree in Informatics with a final grade of 8.53. My academic and research background focuses on networking, bioinformatics, artificial intelligence, and optimization. I am also skilled in penetration testing and cybersecurity, combining my technical expertise with a keen interest in identifying and mitigating security vulnerabilities. I am passionate about technology and always eager to expand my knowledge and contribute to solving real-world challenges through innovative and secure solutions.
+I am a Computer Science graduate from Democritus University of Thrace, holding a Bachelor's degree in Informatics with a final grade of 8.53. My academic and research background focuses on networking, bioinformatics, artificial intelligence, and optimization. I am also skilled in penetration testing and cybersecurity, combining my technical expertise with a keen interest in identifying and mitigating security vulnerabilities. I am passionate about technology and always eager to expand my knowledge and contribute to solving real-world challenges through innovative and secure solutions.
 
 ## 📫 Contact
 
